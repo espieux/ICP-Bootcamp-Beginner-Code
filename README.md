@@ -34,7 +34,7 @@ IC Overview (recorded on a recent workshop with CS Students):
 Challenge Overview (please ignore the outdated Taikai submission instructions! 😅)
 - https://www.loom.com/share/183cb33b30e34bf5a093ca5eaf9c9c16
 
-Required Challenge:
+**Required Challenge:**
 - Github and Codespace setup
 - Overview of code structure
   -   https://www.loom.com/share/b7889a4beb2d4136acc89213756c0c82
@@ -44,7 +44,7 @@ Required Challenge:
 - Store more complex data, like previous model results associated with an User.
   - https://www.loom.com/share/1e7790892d2a459f9193b8ca30074bf6
 
-Extra / Optional Challenge:
+**Extra / Optional Challenge:**
 - HTTP Outcall and Hugging Face API overview
 - Call and parse the data, and select best result
 - Render and improve frontend to enable user to better interact with the features you built.
