@@ -12,16 +12,10 @@ On this challenge, the main goals are:
 
 This challenge will be in Motoko. We have prepared a Codespace for you, so you don't waste time on local setup and can go directly to the fun part, coding! ⌨️
 
-In the basic challenge you will:
+In this challenge you will:
 - Develop a canister (backend) that logs in with Gmail, with an ICP wallet provider called NFID.
 - Work on the backend, understanding data structures, packages, stable/dynamic memory, etc.
 - You will allow to setup a user profile and safely store user records (like the results of the AI Model).
-
-In the intermediate challenge you will:
-- Connect that backend to the API of HuggingFace, using IC HTTP Outcalls.
-- We will use a basic one, phrase sentiment analysis model.
-- You will need to parse the response and more clearly show the model result.
-- Then on the frontend you need to improve it and allow the user to interact with the new AI / API features you just added.
 
 ## Tutorial Videos
 
@@ -43,9 +37,3 @@ Challenge Overview (please ignore the outdated Taikai submission instructions! �
   - (part 2) https://www.loom.com/share/1bee546548d948f591bfc11de2066359
 - Store more complex data, like previous model results associated with an User.
   - https://www.loom.com/share/1e7790892d2a459f9193b8ca30074bf6
-
-**Extra / Optional Challenge:**
-- HTTP Outcall and Hugging Face API overview
-- Call and parse the data, and select best result
-- Render and improve frontend to enable user to better interact with the features you built.
-  - https://www.loom.com/share/ee46c7c0daf44bc39030fc5ba560c50f   
